@@ -55,7 +55,8 @@ The alert timeline shows a clear spike in activity concentrated in a short windo
 consistent with the attack simulation being run in a single, deliberate session 
 rather than activity spread out over time.
 
-<img width="1600" height="377" alt="image" src="https://github.com/user-attachments/assets/07104571-4b3f-42ea-ae1f-24bbd69d0ef6" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e339a44e-6a25-42b5-a394-0b275ff635e0" />
+
 
 *Figure 3: Wazuh Security Events overview — alert totals and activity timeline*
 
