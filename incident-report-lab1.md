@@ -1,7 +1,7 @@
 # Incident Report — Lab 1 Home SOC Lab
 
 ## Date: July 8, 2026
-## Analyst: Wajahat Safdar
+## Analyst: Basit Ali
 ## Severity: Medium
 ## Status: Resolved
 
